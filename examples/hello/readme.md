@@ -1,6 +1,6 @@
 # hello
 
-> Demo for Next.js
+> Demo for Next.js Plugin
 
 ## How to use
 
