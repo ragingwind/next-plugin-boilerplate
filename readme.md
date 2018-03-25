@@ -10,7 +10,7 @@ npm install --save next-plugin
 or
 
 ```sh
-yarn add next-plugin
+yarn add next-plugin-boilerplate
 ```
 
 # Usage
